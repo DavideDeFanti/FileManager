@@ -2,7 +2,7 @@ import java.io.*;
 
 public class FileManager {
 
-    private String basePath = "src/Archivio";
+    private String basePath = "src/Archivio/";
 
     // Metodo per scrivere su file
     public void scriviSuFile(String nomeFile, String contenuto) {

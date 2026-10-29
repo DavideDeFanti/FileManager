@@ -2,7 +2,7 @@ import java.io.*;
 
 public class Documento implements Serializable {
 
-    private static String basePath = "C:\\Users\\ddefanti\\OneDrive - MANUTENCOOP Facility Management S.p.A\\Desktop\\DDF\\Projects\\ESERCIZI\\FileManager\\src\\Archivio\\";
+    private static String basePath = "src/Archivio/";
     private static final long serialVersionUID = 1L;
     private String titolo;
     private String autore;
